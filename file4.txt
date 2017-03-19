@@ -2,3 +2,4 @@ Ini file ke 4
 Line ke2
 dan ke3
 juga ke 4
+tapi ini 6
