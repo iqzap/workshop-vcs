@@ -5,3 +5,5 @@ Line2Tambah line ke 3
 
 
 Kita sekarang berada di branch dev
+
+tanpa fast forward
